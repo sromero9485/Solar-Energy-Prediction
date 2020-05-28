@@ -6,7 +6,7 @@
 
 Durante el bootcamp de Data Analytics en Ironhack, realizamos la siguiente competencia en Kaggle:  https://www.kaggle.com/c/solar-energy-prediction-datamex0320/overview
 
-El conjunto de datos contiene columnas como velocidad y dirección del viento, humedad o temperatura. La competición consiste en predecir la radiación solar en esos datos. Se tienen 4 meses de datos.
+El conjunto de datos contiene columnas como velocidad y dirección del viento, humedad o temperatura. La competencia consiste en predecir la radiación solar en esos datos. Se tienen 4 meses de datos.
 
 La métrica de error es el MSE, por lo tanto, cuanto menor sea mejor resultado será.
 
